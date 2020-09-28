@@ -1,4 +1,5 @@
 t = []
+t_max = 100
 m0 = 0
 h = 1
 # variant
